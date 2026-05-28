@@ -12,15 +12,11 @@
 💡 &nbsp;Always exploring new tools, frameworks & best practices  
 
 ---
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,tailwind,nodejs,express,postgres,mysql,git&theme=dark" alt="tech stack" />
 </p>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -33,7 +29,6 @@
 </p>
 
 ---
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">

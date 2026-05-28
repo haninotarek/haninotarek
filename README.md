@@ -1,57 +1,52 @@
-<h1 align="center">Hi, I'm Hanin 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hanin+%F0%9F%91%8B;Computer+Science+Student;Aspiring+Back-End+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-🎓 Computer Science student — graduating in 2028 <br>
-🚀 Aspiring to become a great software developer <br>
-🌱 Currently learning front-end & back-end technologies
-</p>
-
----
+<br/>
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student with a strong passion for programming and web development.  
-I’m always exploring new tools and frameworks to grow my skills and become a future full-stack developer.
+🎓 &nbsp;Computer Science student — graduating in **2028**  
+🚀 &nbsp;Aspiring to become a great **back-end developer**  
+🌱 &nbsp;Currently diving into **back-end technologies & APIs**  
+💡 &nbsp;Always exploring new tools, frameworks & best practices  
 
 ---
 
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haninotarek&show_icons=true&theme=radical" alt="Hanin's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,git&theme=dark" alt="tech stack" />
 </p>
 
+---
 
-<!--
-**haninotarek/haninotarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📊 GitHub Stats</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haninotarek&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haninotarek&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haninotarek&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanin-tarek-04900230b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:haninotarek222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." 💜</i>
+</p>

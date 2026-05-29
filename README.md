@@ -17,21 +17,15 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,tailwind,nodejs,express,postgres,mysql,git&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=haninotarek&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haninotarek&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=haninotarek&theme=radical&hide_border=true&background=0d1117" />
-</p>
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haninotarek&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haninotarek&layout=compact&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=haninotarek&theme=radical" />
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
